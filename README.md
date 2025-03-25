@@ -12,5 +12,4 @@ I'm always eager to put my skills to the test in the IT field.
 - **Virtualization** : My virtualization documentation and projects
 
 ## My Contacts
-- **Email** : bryanyu989@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/bryan-yu-15a398291)
+[LinkedIn](https://www.linkedin.com/in/bryan-yu-15a398291)
